@@ -1,5 +1,3 @@
-# OlhaPiatenko.github.io
-
 # My Data Analytics Portfolio
 
 ## Project 1
